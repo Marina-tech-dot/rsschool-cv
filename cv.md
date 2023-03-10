@@ -29,7 +29,8 @@ My aim - became high-quality frontend developer.
 * React
 
 ### Code Examples 
-  `function numberOfPairs(gloves) {
+  ```js
+  function numberOfPairs(gloves) {
     let objPairs = gloves.reduce((acc, el) => {
       acc[el] = (acc[el] || 0) + 1
       return acc
@@ -42,7 +43,8 @@ My aim - became high-quality frontend developer.
     }
   
   return pairsAmount
-}`
+}
+```
 
 ### WORK EXPERIENCE
 * virtualKeyBoard_vanillaJs 
