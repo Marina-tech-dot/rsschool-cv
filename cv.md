@@ -47,11 +47,9 @@ My aim - became high-quality frontend developer.
 ```
 
 ### WORK EXPERIENCE
-* virtualKeyBoard_vanillaJs 
-Available by clicking [here](https://marina-tech-dot.github.io/virtualKeyBoard_vanillaJs/)
+* [virtualKeyBoard_vanillaJs](https://marina-tech-dot.github.io/virtualKeyBoard_vanillaJs/)
 
-* TastyCaffe_React
-Available by clicking [here](https://github.com/Marina-tech-dot/TastyCaffe_React)
+* [TastyCaffe_React](https://github.com/Marina-tech-dot/TastyCaffe_React)
 
 ### Education
 * Belorassian State University (Lawyer);
