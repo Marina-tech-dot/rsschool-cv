@@ -1,9 +1,9 @@
 # Marina Hudkova
 
 ### My Contact Info
-Location: Poland, Gdansk
-hudkova.marina@gmail.com
-Marina Hudkova(@Marina-teсh-dot) - discord
+Location: Poland, Gdansk  
+hudkova.marina@gmail.com  
+Marina Hudkova(@Marina-teсh-dot) - discord  
 
 ### About Me
 I'm ex lawyer.
@@ -29,7 +29,7 @@ My aim - became high-quality frontend developer.
 * React
 
 ### Code Examples 
-  function numberOfPairs(gloves) {
+  `function numberOfPairs(gloves) {
     let objPairs = gloves.reduce((acc, el) => {
       acc[el] = (acc[el] || 0) + 1
       return acc
@@ -42,14 +42,14 @@ My aim - became high-quality frontend developer.
     }
   
   return pairsAmount
-}
+}`
 
 ### WORK EXPERIENCE
 * virtualKeyBoard_vanillaJs 
-Available by clicking here https://marina-tech-dot.github.io/virtualKeyBoard_vanillaJs/
+Available by clicking [here] (https://marina-tech-dot.github.io/virtualKeyBoard_vanillaJs/)
 
 * TastyCaffe_React
-Available by clicking here https://github.com/Marina-tech-dot/TastyCaffe_React
+Available by clicking [here] (https://github.com/Marina-tech-dot/TastyCaffe_React)
 
 ### Education
 * Belorassian State University (Lawyer);
